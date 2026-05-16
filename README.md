@@ -4,7 +4,7 @@ Parámetros de configuración de JK-BMS
 Parámetros para *JK-BMS con LiFePo4 y 16S*.
 recopilados de diversas fuentes que se explicitan al final del documento.
 
-| Nombre                  | Inicial | DIY   | Olaria |
+| Nombre                  | Inicial | DIY   |
 | ---:                    | :---    | :---  |
 | Cell Count              | 16      | 16    |
 | Battery Capaciy (Ah)    | 40      | 314   |
