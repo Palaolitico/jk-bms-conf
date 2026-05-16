@@ -1,7 +1,7 @@
 Parámetros de configuración de JK-BMS
 ======================================================================
 
-Parámetros para JK-BMS con LiFePo4 y 16S.
+Parámetros para *JK-BMS con LiFePo4 y 16S*.
 recopilados de diversas fuentes que se explicitan al final del documento.
 
 | aaa | bbb |
