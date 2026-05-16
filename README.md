@@ -4,14 +4,14 @@ Parámetros de configuración de JK-BMS
 Parámetros para JK-BMS con LiFePo4 y 16S.
 recopilados de diversas fuentes que se explicitan al final del documento.
 
-| Nombre                  | Inicial | DIY   | Olaria | DS | Gobel |
+| Nombre                  | Inicial | DIY   | 
 | ---:                    | :---    | :---  |
 | Cell Count              | 16      | 16    |
 | Battery Capaciy (Ah)    | 40      | 314   |
 | Balance Trig. Volt. (V) | 0.010   | 0.010 |
 | Calibrating Volt. (V)   | 51.77   |       |
 | Calibrating Curr. (A)   | 0       |       |
-| --- |
+| ---                     | ---     | ---   |
 
 Start Balance Volt. (V): 3.00
 Max Balance Cur. (A): 2.0
